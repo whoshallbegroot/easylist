@@ -7595,7 +7595,7 @@ bing.com##a[href*="/aclick?ld="]
 bing.com##cs-native-ad-card
 bing.com##div[aria-label$="ProductAds"]
 bing.com##div[class="ins_exp tds"]
-bing.com##div[class="ins_exp vsp"]
+bing.com##div[class="ins_exp tsp"]
 bing.com##li.b_ans[data-partnertag][role="ppt"]
 bing.com##li.b_ans[data-partnertag]
 bing.com##li[data-idx]:has(#mm-ebad)
